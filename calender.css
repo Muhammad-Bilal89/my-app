@@ -1,0 +1,16 @@
+/* .calender{
+    margin-left: -24%;
+}
+td,th{
+    text-align: center;
+}
+td{
+    overflow: auto; height: 100px;
+}
+td:hover{
+    background-color: rgb(95, 95, 95);
+} */
+
+.calendar{
+    margin-right: 1%;
+}
