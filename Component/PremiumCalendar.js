@@ -327,6 +327,7 @@ export const PremiumCalendar=()=>{
             initialDate={currentDate}
             timeZone='UTC'
             //slotMinTime=''
+            slotDuration='00:15'
             resources= {resource}
             
             events={data}
