@@ -1,0 +1,66 @@
+.table-search {
+    margin-left: 0%;
+    background-color: yellow;
+}
+.badge{
+    text-decoration: none;
+    font-size:medium;
+}
+.badge:hover{
+    background-color: transparent;
+}
+
+.form-control:invalid:required{
+    border-color:red;
+}
+.form-control:valid{
+    border-color:black;
+}
+.calc-card{
+    margin-left: 20%;
+    margin-top: 3%;
+    width: 30%;
+}
+.calc-input{
+    text-align: right;
+    font-size: 30px;
+    margin-left: 6px;
+    width: 99%;
+}
+.calc-row1{
+    display: flex;
+    float: left;
+}
+.calc-row2{
+
+    display: flex;
+    float: left;
+}
+.calc-row3{
+    margin-top: 18px;
+    margin-left: -90px;
+    display: flex;
+    float: left;
+}
+.calc-row4{
+    margin-top: 35px;
+    margin-left: -90px;
+    display: flex;
+    float: left;
+    
+}
+.calc-btn{
+    margin-top: 3px;
+    margin-left: 6px;
+}
+.calc-btn .btn{
+    padding-right: 32%;
+    padding-left: 32%;
+    margin-right: 2px;
+    font-size: 35px;
+
+}
+.calc-btn .btn:hover{
+    background-color: rgb(95, 95, 95);
+
+}
